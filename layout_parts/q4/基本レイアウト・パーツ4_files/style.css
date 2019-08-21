@@ -1,6 +1,5 @@
 @charset "UTF-8";
 
-/* 回答はここに書いてね */
 .q4 {
   padding: 20px;
   box-sizing: border-box;
@@ -31,6 +30,9 @@
   background-color: #B6D8ED;
 }
 .q4__contents__cell.is-yellow {
+  background-color: #E5D32E;ßß
+}
+.q4__contents__cell.is-red {
   background-color: #E5D32E;
 }
 .q4__contents__cell.is-red {
